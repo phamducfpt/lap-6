@@ -1,0 +1,6 @@
+F:\JB\lap6\lap6\bin\Debug\lap6.exe
+F:\JB\lap6\lap6\bin\Debug\lap6.pdb
+F:\JB\lap6\lap6\obj\Debug\lap6.csprojAssemblyReference.cache
+F:\JB\lap6\lap6\obj\Debug\lap6.csproj.CoreCompileInputs.cache
+F:\JB\lap6\lap6\obj\Debug\lap6.exe
+F:\JB\lap6\lap6\obj\Debug\lap6.pdb
